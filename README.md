@@ -1,6 +1,6 @@
 # CCC Berlin Service Point Display
 
-This is a typescript project to send commands to the Service Point display at CCC Berlin.
+This is a typescript project to send a browser video stream to the Service Point display at CCC Berlin.
 
 ## Usage
 
